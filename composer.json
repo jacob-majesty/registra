@@ -1,0 +1,15 @@
+{
+    "name": "ixcsoft/registra",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Ixcsoft\\Registra\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "jacob"
+        }
+    ],
+    "require": {}
+}
